@@ -1,0 +1,8 @@
+"CS-205","Declarative Programming"
+"CS-230","Software Engineering"
+"CS-250","Database Systems"
+"CS-270","Algorithms"
+"CS-200","Introduction to Human-Computer Interaction"
+"CS-210","Concurrency"
+"CS-255","Computer Graphics"
+"CS-275","Automata and Formal Language Theory"

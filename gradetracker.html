@@ -1,0 +1,17 @@
+<html>
+<body>
+<b> Add assessment: </b>
+<form action="insert_assess.php" method="post">
+	<p> Module code <input type="text" name="mid"> </p>
+	<p> Assessment name <input type="text" name="assess_name"> </p>
+	<p> Mark <input type="text" name="mark"> </p>
+	<input type="submit">
+</form>
+
+<b> Enter module code or 'all' to track grade: </b>
+<form action="get_grade.php" method="post">
+	<input type="text" name="mid">
+	<input type="submit">
+</form>
+</body>
+</html>
